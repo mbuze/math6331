@@ -1,0 +1,26 @@
+{
+  "short_name": "MATH6331",
+  "name": "Statistical learning \u00b7 MATH6331",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#1a1a34",
+  "background_color": "#ffffff",
+  "scope": "./"
+}
